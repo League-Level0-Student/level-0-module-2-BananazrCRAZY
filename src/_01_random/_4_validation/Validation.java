@@ -17,9 +17,19 @@ public class Validation {
 		System.out.println(randomNumber);
 
 		// 1. Use each value of randomNumber to give the user a random compliment.
-
+		if (randomNumber == 1) {
+			System.out.println("Nice");
+		}
 		// 2. Repeat all the code above 10 times
-		
+		if (randomNumber == 2) {
+			System.out.println("Goo D");
+		}if (randomNumber == 3) {
+			System.out.println("OK");
+		}if (randomNumber == 4) {
+			System.out.println("Epic");
+		}if (randomNumber == 0) {
+			System.out.println("Coo L");
+		}
 		// 3. Find someone to test out your program. They will like it :)
 	}
 }
