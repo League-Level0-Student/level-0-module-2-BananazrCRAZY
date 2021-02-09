@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class RollerCoaster {
 
-	// 1) Make a main method that includes all the steps below…. 
+	// 1) Make a main method that includes all the steps below….
 	public static void main(String[] args) {
 		
 		// 2) Ask the user to enter their height in inches using JOptionPane and set it to the variable heightToRide

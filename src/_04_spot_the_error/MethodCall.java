@@ -14,3 +14,4 @@ public class MethodCall {
 		System.out.println(aMessage);
 	}
 }
+//ok

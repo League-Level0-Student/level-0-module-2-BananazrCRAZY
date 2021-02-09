@@ -26,7 +26,7 @@ public class AnimalFarm {
 	void animals() {
 
 		/* 1. Ask the user which animal they want, then see and hear 
-		 *    the animal they chose using one of the methods below.
+		 *    the animal they chose using one of the methods below
 		*/		
 			String ask = JOptionPane.showInputDialog("What animal would you like?\n"
 					+ "Cow, Duck, Dog, Cat, or Llama?");

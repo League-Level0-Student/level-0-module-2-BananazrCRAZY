@@ -6,7 +6,7 @@ public class FixTheRandom {
 
 	// This program is supposed to get a random number between 5 and 10 and print a different message for each number.
 	// BUT it's not working. If you don't believe me, try running it.
-	// Change ONE line of code to fix this program.
+	// Change ONE line of code to fix this program
 	
 	public static void main(String[] args) {
 		

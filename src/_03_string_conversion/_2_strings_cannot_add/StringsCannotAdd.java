@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class StringsCannotAdd {
 
-		// 1) Make a main method that includes all the steps below…. 
+		// 1) Make a main method that includes all the steps below….
 	public static void main(String[] args) {
 			// 2) Ask the user to enter number 4 and hold it in the variable fourAsString 
 		String fourAsString = JOptionPane.showInputDialog("Input the number 4.");
